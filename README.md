@@ -24,8 +24,8 @@ A Telegram bot that uses AI to provide preliminary medical assessments based on 
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/akdauletov-daniyar/HealthX-tgbot.git
+cd HealthX-tgbot
 ```
 
 2. Create and activate a virtual environment:
