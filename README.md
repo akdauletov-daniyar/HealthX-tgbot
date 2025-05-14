@@ -1,6 +1,6 @@
  # Health-X Medical Assistant Bot
 
-A Telegram bot that uses AI to provide preliminary medical assessments based on user-reported symptoms. The bot analyzes symptoms using OpenAI's GPT-3.5 model and provides possible diagnoses, treatment recommendations, and precautions.
+A Telegram bot that uses AI to provide preliminary medical assessments based on user-reported symptoms. The bot analyzes symptoms using AI model and provides possible diagnoses, treatment recommendations, and precautions.
 
 ⚠️ **Important Disclaimer**: This bot is not a replacement for professional medical advice. Always consult with healthcare professionals for proper medical diagnosis and treatment.
 
