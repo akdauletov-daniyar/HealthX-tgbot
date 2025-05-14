@@ -1,5 +1,0 @@
-python-telegram-bot==20.7
-openai==0.28.1
-APScheduler==3.10.4
-python-dotenv==0.19.2
-imghdr==0.1.0 
