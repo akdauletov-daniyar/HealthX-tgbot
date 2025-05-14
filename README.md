@@ -91,8 +91,4 @@ The following environment variables must be set in the `.env` file:
 
 ## Support
 
-If you encounter any issues or have questions, please open an issue in the repository.
-
-## License
-
-[Add your license information here]
+If you encounter any issues or have questions, please contact akdauletov.daniar@gmail.com
